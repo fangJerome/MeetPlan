@@ -1,2 +1,2 @@
 # MeetPlan
-MeetPlanTest
+Repo rapide dans le cadre du test MeetPlan
